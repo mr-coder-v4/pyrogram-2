@@ -48,7 +48,7 @@ class ChatAction(AutoName):
     "Finding location"
 
     RECORD_VIDEO_NOTE = raw.types.SendMessageRecordRoundAction
-    "Recording video note"
+    "Compressing Video"
 
     UPLOAD_VIDEO_NOTE = raw.types.SendMessageUploadRoundAction
     "Uploading video note"
